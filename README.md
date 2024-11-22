@@ -966,9 +966,3 @@ for epoch in range(epochs):
     Epoch 98, Loss: 0.000061, Output: 0.011032
     Epoch 99, Loss: 0.000055, Output: 0.010481
     Epoch 100, Loss: 0.000050, Output: 0.009957
-
-
-
-```python
-
-```
